@@ -1,0 +1,11 @@
+.die {
+  display: table-cell;
+  border: 1px solid #000;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  vertical-align: middle;
+  background-color: #f00;
+  color: #fff;
+  font: 48px Times;
+}
